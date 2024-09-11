@@ -1,1 +1,1 @@
-El archivo .pdf se encuentrar las instrucciones para realizar esta prueba. En el archivo .zip se encuentra la base de datos de SQLite.
+El archivo .pdf se encuentrar las instrucciones para realizar esta prueba. En el archivo .zip se encuentra la base de datos de SQLite. Recuerde que se espera un repositorio por persona, por lo tanto, no se aceptarán commints en este repositorio. 
